@@ -7,3 +7,5 @@ Kaardikihtidena on kuvatud:
 - *Thin Plate Spline* meetodiga interpoleeritud tõenäosused *pole*-variandi esinemisele atlase punktide põhjal (mida tumedam ala, seda suurem *pole* kasutamise tõenäosus),   
 - "ei ole" ja "pole" kaardil kuvatud kogumispunktide tihedusjaotus rastrina,   
 - kihelkondade kiht.  
+
+Kaarti saab vaadata aadressil [https://mpilvik.github.io/eiole_pole_murretes/](https://mpilvik.github.io/eiole_pole_murretes/).  
